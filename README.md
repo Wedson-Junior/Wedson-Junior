@@ -9,8 +9,8 @@
 	Back-end and Python Developer. I have hands-on experience in Python programming, developing robust and efficient applications. Seeking opportunities to contribute to 	innovative projects and expand my technical skills.
 
   <h4>💌 Contact me clicking in one of these links below! ⤵️</h4>
-  <a href = "mailto:lcemanuel.emanuel@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&color=785EF0&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/lucasemanuelsilva/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=785EF0&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <a href = "mailto:wedsonp.medrado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&color=785EF0&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=785EF0&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
 	<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
@@ -32,13 +32,3 @@
 <div align="center">
  <img height="100%" src="https://github-readme-stats-sigma-five.vercel.app/api?username=Wedson-Junior&show_icons=true&include_all_commits=true&count_private=true&hide_border=true&theme=tokyonight" />
 </div>
-
-<div align="center">
-  <h2>𝚂𝚗𝚊𝚔𝚎 𝙶𝚊𝚖𝚎</h2>
-  
-  <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake-dark.svg" 
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Lyarkh/Lyarkh/output/github-contribution-grid-snake.svg?palette=github-dark" />
-  <img alt="github-snake" src="github-contribution-grid-snake.svg" />
-</picture>
- 
