@@ -5,7 +5,7 @@
 <img align="right" alt="Python" height="150" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
 
 ### Sobre mim
-Sou um desenvolvedor Python focado em backend, apaixonado por criar aplicações robustas, eficientes e — principalmente — **código limpo, organizado e bem comentado**. Acredito que um bom código deve ser fácil de entender, não um quebra-cabeça.
+Sou um desenvolvedor Python focado em backend, apaixonado por criar aplicações robustas, eficientes e principalmente com um **código limpo e organizado**. Acredito que um bom código deve ser fácil de entender, não um quebra-cabeça.
 
 Atualmente mergulhando cada vez mais na **Ciência de Dados** e construindo soluções que transformam dados em valor real.
 
