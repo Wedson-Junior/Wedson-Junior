@@ -10,7 +10,7 @@
 
   <h4>💌 Contact me clicking in one of these links below! ⤵️</h4>
   <a href = "mailto:wedsonp.medrado@gmail.com"><img src="https://img.shields.io/badge/Gmail-D14836?&color=785EF0&style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=785EF0&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  
+  <!-- <a href="" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?&color=785EF0&style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>  -->
 	<br><br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif"><br><br>
